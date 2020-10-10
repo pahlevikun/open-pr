@@ -7,3 +7,9 @@ I just create this repository For beginners to participate in HacktoberFest 2020
 ## Contribution :
 - Sample program or any basic code like an extensions in kotlin or hello world.
 - Code in any programming language
+
+
+## Guidelines
+1. Fork the repo
+2. Put your code inside `code` folder.
+3. Raise a PR to this repository
